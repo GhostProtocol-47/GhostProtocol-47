@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Breaking+and+Building+Systems;Mechatronics+%C3%97+Software+%C3%97+AI;Learning+%7C+Building+%7C+Iterating" />
-<p>
+
 
 ---
 
