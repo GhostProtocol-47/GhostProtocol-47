@@ -3,13 +3,10 @@
 # SYSTEM ONLINE 
 
 MY NAME IS :
-### SHAMES ALDEEN 
-────────────────────────────────────── 
-`MECHATRONICS × SOFTWARE × AI`
+### SHAMES ALDEEN `MECHATRONICS × SOFTWARE × AI`
 
 > Building things , breaking things , understanding why.
 
-────────────────────────────────────── 
 ---
 
 ## ⚡ SKILL MATRIX
@@ -20,13 +17,13 @@ MY NAME IS :
 </p>
 
 ---
-────────────────────────────────────── 
+ 
 ## 🧠 CURRENTLY BUILDING
-────────────────────────────────────── 
+ 
 ## 📡 CURRENTLY LEARNING
 
 `SQL`
-────────────────────────────────────── 
+
 ## 🚀 PROJECTS
 
 | PROJECT | STATUS |
