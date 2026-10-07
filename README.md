@@ -7,8 +7,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Breaking+and+Building+Systems;Night+Owl+%7C+Code+Runner;Always+Learning...)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GhostProtocol-47&color=0ff&style=flat-square&label=INTRUSIONS)
-
 </div>
 
 ---
