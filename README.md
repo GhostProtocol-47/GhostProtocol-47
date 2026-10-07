@@ -31,7 +31,7 @@ Personal AI assistant
 
 ## 📡 CURRENTLY LEARNING
 
-`SQL` · `C/C++` · `Embedded Systems` · `Japanese`
+`SQL`
 
 ---
 
@@ -39,7 +39,7 @@ Personal AI assistant
 
 | PROJECT | STATUS |
 |---|---|
-| 🤖 Mikey | `ACTIVE` |
+| 🤖 Mikey | `stoped` |
 | 🗄️ SQL Lab | `LEARNING` |
 | ⚙️ Robotics | `PLANNING` |
 
