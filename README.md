@@ -46,7 +46,3 @@ CAD       : ██████░░░░ 60%
 🛰️ > ACTIVE_PROJECTS
 [01] ??? 
      LOCKED
-
-
-
-
