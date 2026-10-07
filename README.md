@@ -5,7 +5,7 @@
 # ⚡ GHOSTPROTOCOL-47 ⚡
 ### [ SYSTEM BREACH SUCCESSFUL ] > ACCESSING USER PROFILE...
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=;Mechatronics+%C3%97+Software;Night+Owl+%7C+Code+Runner;;Breaking+and+Building+Systems;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=;Mechatronics+%C3%97+Software;Night+Owl+%7C+Code+Runner;;Breaking+and+Building+Systems;Always+Learning...)
 
 </div>
 
