@@ -26,7 +26,7 @@ My current interests are **automation, robotics, embedded programming, control s
 
 > ALIAS      : [GHOSTPROTOCOL-47 ]
 > ROLE       : [MECHATRONICS ]
-> CODETIME     : [1] month
+> CODETIME   : [1] month
 > STATUS     : 🔴 offline
 
 📡 > CURRENT_MISSION
