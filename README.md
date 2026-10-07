@@ -13,10 +13,19 @@
 
 ## 👤 > WHO AM I
 
+I'm a Mechatronics Engineering student focused on building systems that connect **software, electronics, and automation**.
+
+I'm currently developing my programming skills through hands-on projects, working with **Python, SQL, Arduino, and embedded systems**. I enjoy understanding how systems work internally, and turning ideas into working prototypes.
+
+My current interests are **automation, robotics, embedded programming, control systems, and AI-driven applications**.
+
+> `BUILD → BREAK → DEBUG → LEARN → REPEAT`
+
+
 ```bash
 
 > ALIAS      : [GHOSTPROTOCOL-47 ]
-> ROLE       : [MECHATRONICS // SQL]
+> ROLE       : [MECHATRONICS ]
 > UPTIME     : [1] month
 > STATUS     : 🔴 offline
 
