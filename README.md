@@ -20,5 +20,25 @@ root@ghost:~$ whoami --verbose
 > UPTIME     : [1] month
 > STATUS     : 🟢 ONLINE
 
+📡 > CURRENT_MISSION
+[ ACTIVE PROCESS LOG ]
+MISSION   : [ SQL REPORTING ]
+STACK     : [SQL]
+STATUS    : ████░░░░░ 40% complete
+OBJECTIVE : [ Build my first real SQL reports ]
+NEXT_SYNC : [ Data analysis → Reporting ]
+
+⚙️ > SYSTEM_LOAD
+PYTHON    : ░░░░░░░░░░ 0%
+SQL       : ████░░░░░░ 40%
+CAD       : ██████░░░░ 60%
+ROBOTICS  : ░░░░░░░░░░ 0%
+AI        : ███░░░░░░░ 30%
+
+🔗 > ESTABLISH_CONNECTION
+> no social links
+> email
+> "DM me"
+> 
 
 
