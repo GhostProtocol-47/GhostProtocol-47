@@ -35,11 +35,7 @@ SQL       : ████░░░░░░ 40%
 CAD       : ██████░░░░ 60%
 
 🛰️ > ACTIVE_PROJECTS
-
-[01] SQL
-     Learning → Building
-
-[02] ??? 
+[01] ??? 
      LOCKED
 
 
