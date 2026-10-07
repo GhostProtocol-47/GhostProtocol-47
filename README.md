@@ -6,7 +6,7 @@
 ### [ SYSTEM BREACH SUCCESSFUL ] > ACCESSING USER PROFILE...
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Night+Owl+%7C+Code+Runner;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Night+Owl+%7C+Code+Runner;Always+Learning..." />
 </p>
 
 ---
