@@ -28,7 +28,8 @@ STATUS    : ████░░░░░ 40%
 OBJECTIVE : [ Build my first real SQL reports ]
 NEXT_SYNC : [ Data analysis → Reporting]
 
-⚙️ > SYSTEM_LOAD -- skills
+⚙️ > SYSTEM_LOAD 
+    [ skills ]
 
 SQL       : ████░░░░░░ 40%
 CAD       : ██████░░░░ 60%
