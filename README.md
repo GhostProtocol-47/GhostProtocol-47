@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+# SYSTEM ONLINE 
+
+### SHAMES ALDEEN 
+`MECHATRONICS × SOFTWARE × AI`
+
+> Building things , breaking things , understanding why.
+
+
+---
+
+## ⚡ SKILL MATRIX
+
+<p align="center">
+  <img src="./assets/python.svg" width="120">
+  <img src="./assets/sql.svg" width="120">
+  <img src="./assets/cpp.svg" width="120">
+  <img src="./assets/robotics.svg" width="120">
+</p>
+
+---
+
+
+
+
+
+
 <!--
 **GhostProtocol-47/GhostProtocol-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
