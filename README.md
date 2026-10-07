@@ -1,44 +1,41 @@
 ## Hi there 👋
 
-<div align="left">
+<div align="center">
 
 # ⚡ GHOSTPROTOCOL-47 ⚡
 ### [ SYSTEM BREACH SUCCESSFUL ] > ACCESSING USER PROFILE...
-
+</div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Breaking+and+Building+Systems;Night+Owl+%7C+Code+Runner;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&background=0D0208&center=true&vCenter=true&width=600&lines=Night+Owl+%7C+Code+Runner;Always+Learning" />
 </p>
 
 ---
 
-## 👤 > WHOAMI
+## 👤 > WHO AM I
 
 ```bash
-root@ghost:~$ whoami --verbose
-> ALIAS      : [GHOSTPROTOCOL-47 / Handle]
-> ROLE       : []
+
+> ALIAS      : [GHOSTPROTOCOL-47 ]
+> ROLE       : [MECHATRONICS // SQL]
 > UPTIME     : [1] month
-> STATUS     : 🟢 ONLINE
+> STATUS     : 🔴 offline
 
 📡 > CURRENT_MISSION
 [ ACTIVE PROCESS LOG ]
 MISSION   : [ SQL REPORTING ]
 STACK     : [SQL]
-STATUS    : ████░░░░░ 40% complete
+STATUS    : ████░░░░░ 40% 
 OBJECTIVE : [ Build my first real SQL reports ]
 NEXT_SYNC : [ Data analysis → Reporting]
 
 ⚙️ > SYSTEM_LOAD -- skills
 
-PYTHON    : ░░░░░░░░░░ 0%
 SQL       : ████░░░░░░ 40%
 CAD       : ██████░░░░ 60%
-ROBOTICS  : ░░░░░░░░░░ 0%
-AI        : ███░░░░░░░ 30%
 
 🛰️ > ACTIVE_PROJECTS
 
-[01] SQL_REPORTING
+[01] SQL
      Learning → Building
 
 [02] ??? 
