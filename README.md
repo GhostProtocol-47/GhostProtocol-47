@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-# SYSTEM ONLINE 
+# SYSTEM ONLINE
 
-MY NAME IS :
-### SHAMES ALDEEN `MECHATRONICS × SOFTWARE × AI`
+### SHAMS AL-DEEN
+`MECHATRONICS × SOFTWARE × AI`
 
-> Building things , breaking things , understanding why.
+> Building things, breaking things, understanding why.
 
 ---
 
@@ -13,21 +13,35 @@ MY NAME IS :
 
 <p align="center">
   <img src="./assets/python.svg" width="120">
-  <img srC="./assets/sql.svg" width="120">
+  <img src="./assets/sql.svg" width="120">
+  <img src="./assets/cpp.svg" width="120">
+  <img src="./assets/robotics.svg" width="120">
 </p>
 
 ---
- 
+
 ## 🧠 CURRENTLY BUILDING
- 
+
+**MIKEY**
+Personal AI assistant
+
+`Python` `ChatterBot` `SQLite` `AI`
+
+---
+
 ## 📡 CURRENTLY LEARNING
 
-`SQL`
+`SQL` · `C/C++` · `Embedded Systems` · `Japanese`
+
+---
 
 ## 🚀 PROJECTS
 
 | PROJECT | STATUS |
+|---|---|
+| 🤖 Mikey | `ACTIVE` |
 | 🗄️ SQL Lab | `LEARNING` |
+| ⚙️ Robotics | `PLANNING` |
 
 ---
 
