@@ -2,6 +2,7 @@
 
 # SYSTEM ONLINE
 
+my name is
 ### SHAMS AL-DEEN
 `MECHATRONICS × SOFTWARE × AI`
 
